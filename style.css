@@ -1,0 +1,33 @@
+#cards{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.cardOne{
+    width: 25%;
+    height: 150px;
+    border: 1px solid black;
+    border-radius: 10px;
+        background-color: rgb(243, 201, 146);
+    }
+    .cardTwo{
+        width: 25%;
+        height: 150px;
+        border: 1px solid black;
+        border-radius: 10px;
+        background-color: rgb(243, 201, 146);
+    }
+    .cardThree{
+        width: 25%;
+        height: 150px;
+        border: 1px solid black;
+        border-radius: 10px;
+        background-color: rgb(243, 201, 146);
+    }
+
+form{
+    border: 2px solid red;
+    padding: 20px;
+    background-color: aquamarine;
+    color: red;
+}
